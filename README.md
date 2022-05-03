@@ -63,5 +63,5 @@ export const VaultComponent: React.FC = () => {
 You are now abile to customize the look and feel of your Vault.<br/>
 To do this, you need to copy the style sheet from <a target="_blank" href="https://github.com/Diamond-Vaults/dv-embed/blob/main/build/bundle.css"> here </a>.
 <br/><br/>
-<b>All</b> the stlying of the vault is in that file.<br/>
+<b>All</b> the styling of the vault is in that file.<br/>
 Copy the default styling and create a new local CSS file and overriding the design of the vault.
