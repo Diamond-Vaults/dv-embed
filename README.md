@@ -30,7 +30,7 @@
       <!-- Import Diamond Vault style -->
       <link
         rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/Diamond-Vaults/dv-embed@latest/build/bundle.min.css"
+        href="https://cdn.jsdelivr.net/gh/Diamond-Vaults/dv-embed@latest/build/bundle.css"
       />
 
   </head>
