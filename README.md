@@ -23,7 +23,6 @@
 
       <!-- Import Diamond Vault Integration -->
       <script
-        async
         src="https://cdn.jsdelivr.net/gh/Diamond-Vaults/dv-embed@latest/build/bundle.min.js"
       ></script>
 
