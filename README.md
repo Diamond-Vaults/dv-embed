@@ -23,13 +23,13 @@
 
       <!-- Import Diamond Vault Integration -->
       <script
-        src="https://cdn.jsdelivr.net/gh/Diamond-Vaults/dv-embed@latest/build/bundle.min.js"
+        src="https://cdn.jsdelivr.net/gh/Diamond-Vaults/dv-embed@latest/V2-build/bundle.min.js"
       ></script>
 
       <!-- Import Diamond Vault style -->
       <link
         rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/Diamond-Vaults/dv-embed@latest/build/bundle.css"
+        href="https://cdn.jsdelivr.net/gh/Diamond-Vaults/dv-embed@latest/V2-build/bundle.css"
       />
 
   </head>
